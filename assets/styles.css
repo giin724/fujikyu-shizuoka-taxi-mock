@@ -190,7 +190,7 @@ button { font-family: inherit; cursor: pointer; }
 
 .hero-sub {
   height: 360px;
-  background-position: center top;
+  background-position: center bottom;
 }
 .hero-sub h1 { font-size: 40px; }
 
